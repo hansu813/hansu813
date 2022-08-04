@@ -23,8 +23,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hansu813&show_icons=true&theme=nord)
 
-#
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansu813&layout=compact&theme=nord)
 
 </div>
