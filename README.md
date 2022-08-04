@@ -5,18 +5,17 @@
 <div align=left>
 
 * **Blog** | <a href="https://www.notion.so/s-Development-Notes-27c5c3e718784987b554aecef5186fbc" target="_blank"><img src="https://img.shields.io/badge/한수's Development Notes-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
 * **Email** | <img src="https://img.shields.io/badge/shn813@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 </div>
 
 
-## <div align=center> :hammer_and_wrench: Stacks </div>
+## <div align=center> :hammer_and_wrench: Skills </div>
 
-<div align=center>
+* **Programming** |  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a> 
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a> 
-
-</div>
+*  **FrameWork** |
 
 ## <div align=center> ✨Stat </div>
 
