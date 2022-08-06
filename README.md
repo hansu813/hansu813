@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=WAVING&color=4169E1&height=300&section=header&text=Hansu%20Kim&fontSize=90&animation=blinking&fontColor=FFD700&theme=redical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=300&section=header&text=Hansu%20Kim&fontSize=90&animation=blinking&fontColor=FFD700&theme=redical)
 
 ## 👋 Hey! Nice to see you
 
