@@ -18,7 +18,8 @@ I'm Hansu Kim, Junior Developer from south korea
 
 ## <div align=center> :hammer_and_wrench: Skills </div>
 
-**code with** |  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF"/></a> 
+**code with** |  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a> 
+
 
 ## <div align=center> ✨Stat </div>
 
