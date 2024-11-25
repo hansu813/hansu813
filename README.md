@@ -11,7 +11,7 @@ I'm Hansu Kim, Junior Developer from south korea
 
 * **BLOG** | <a href="https://www.notion.so/Developer-Study-Note-ecc24598bde44fc38105a76b4b57104e" target="_blank"><img src="https://img.shields.io/badge/Developer Study Note-000000?style=social&logo=Notion&logoColor=000000"/></a>
 
-* **EMAIL** | <img src="https://img.shields.io/badge/gkstn813@gmail.com-03C75A?style=social&logo=Naver&logoColor=03C75A"/></a>
+* **EMAIL** | <img src="https://img.shields.io/badge/gkstn813@gmail.com-03C75A?style=social&logo=Google&logoColor=03C75A"/></a>
 
 </div>
 
