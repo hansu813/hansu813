@@ -9,21 +9,23 @@ I'm Hansu Kim, Junior Developer from south korea
 
 <div align=left>
 
-* **BLOG** | <a href="https://www.notion.so/Developer-Study-Note-ecc24598bde44fc38105a76b4b57104e" target="_blank"><img src="https://img.shields.io/badge/Developer Study Note-000000?style=social&logo=Notion&logoColor=000000"/></a>
+* **BLOG** 　| 　<a href="https://www.notion.so/Developer-Study-Note-ecc24598bde44fc38105a76b4b57104e" target="_blank"><img src="https://img.shields.io/badge/Developer Study Note-000000?style=social&logo=Notion&logoColor=000000"/></a>
 
-* **EMAIL** | <img src="https://img.shields.io/badge/gkstn813@gmail.com-03C75A?style=social&logo=Google&logoColor=E6E6FA"/></a>
+* **EMAIL** 　| 　<img src="https://img.shields.io/badge/gkstn813@gmail.com-03C75A?style=social&logo=Google&logoColor=000000"/></a>
 
 </div>
 
 
 ## <div align=center> :hammer_and_wrench: Skills </div>
 
-**code with** |  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF"/></a> 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=000000"/></a>
-
+**code with** 　| 　 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF"/></a>　
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>　 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>　 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>　
+<img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>　
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>　
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=000000"/></a>　
 
 ## <div align=center> ✨Stat </div>
 
